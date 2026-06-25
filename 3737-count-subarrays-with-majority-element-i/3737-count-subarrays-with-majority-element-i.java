@@ -1,41 +1,28 @@
 class Solution {
     public int countMajoritySubarrays(int[] nums, int target) {
-         int ans =0;
 
-         int len =0;
-        //  int sim =0;
-         int n = nums.length;
-    //       for( int num : nums){
-    //     if(num==target){
-    //         sim++;
-    //     }
-    //    }
+        int n = nums.length;
+        int ans = 0;
 
-    //    if(n==sim){
-    //     return (n*(n+1)/2);
-    //    }
+        for (int i = 0; i < n; i++) {
 
-      // return 0;
+            int targetCount = 0;
 
-         for(int i=0;i<n;i++){
-            int count=0;
-            for(int j=i;j<n;j++){
-                if(nums[j]==target){
-                    count++;
+            for (int j = i; j < n; j++) {
+
+                if (nums[j] == target) {
+                    targetCount++;
                 }
-                len=j-i+1;
 
-                if(count*2>len){
+                int length = j - i + 1;
+
+                
+                if (targetCount * 2 > length) {
                     ans++;
                 }
             }
-         } 
-        
+        }
 
-      
-
-      return ans;
-
-
+        return ans;
     }
 }
