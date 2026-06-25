@@ -3,17 +3,17 @@ class Solution {
          int ans =0;
 
          int len =0;
-          int sim =0;
+        //  int sim =0;
          int n = nums.length;
-          for( int num : nums){
-        if(num==target){
-            sim++;
-        }
-       }
+    //       for( int num : nums){
+    //     if(num==target){
+    //         sim++;
+    //     }
+    //    }
 
-       if(n==sim){
-        return (n*(n+1)/2);
-       }
+    //    if(n==sim){
+    //     return (n*(n+1)/2);
+    //    }
 
       // return 0;
 
