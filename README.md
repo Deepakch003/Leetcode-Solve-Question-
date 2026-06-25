@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -27,6 +29,7 @@
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -36,4 +39,20 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0326-power-of-three) |
+## Array
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
