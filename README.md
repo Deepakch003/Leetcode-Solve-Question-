@@ -27,6 +27,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0322-coin-change) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -47,6 +48,7 @@
 ## Array
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0322-coin-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3880-minimum-absolute-difference-between-two-values) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
