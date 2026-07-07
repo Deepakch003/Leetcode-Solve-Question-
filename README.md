@@ -43,6 +43,7 @@
 | ------- |
 | [0326-power-of-three](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0326-power-of-three) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
