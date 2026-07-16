@@ -67,6 +67,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -141,6 +142,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1301-number-of-paths-with-max-score) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1504-count-submatrices-with-all-ones) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
