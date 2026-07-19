@@ -61,6 +61,7 @@
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3516-find-closest-person](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3516-find-closest-person) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
