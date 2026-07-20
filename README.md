@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0326-power-of-three) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
