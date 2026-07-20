@@ -102,6 +102,7 @@
 | [3620-network-recovery-pathways](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3660-jump-game-ix) |
 | [3668-restore-finishing-order](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3668-restore-finishing-order) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -255,8 +256,10 @@
 | ------- |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Brainteaser
 |  |
 | ------- |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3674-minimum-operations-to-equalize-array) |
 <!---LeetCode Topics End-->
