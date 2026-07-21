@@ -22,6 +22,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2785-sort-vowels-in-a-string](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2785-sort-vowels-in-a-string) |
+| [3227-vowels-game-in-a-string](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3227-vowels-game-in-a-string) |
 | [3675-minimum-operations-to-transform-string](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3675-minimum-operations-to-transform-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
@@ -67,6 +68,7 @@
 | [3021-alice-and-bob-playing-flower-game](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
+| [3227-vowels-game-in-a-string](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3227-vowels-game-in-a-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
@@ -277,9 +279,14 @@
 |  |
 | ------- |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
+| [3227-vowels-game-in-a-string](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3227-vowels-game-in-a-string) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Queue
 |  |
 | ------- |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2327-number-of-people-aware-of-a-secret) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
