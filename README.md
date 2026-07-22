@@ -121,6 +121,7 @@
 | [3668-restore-finishing-order](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3668-restore-finishing-order) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3676-count-bowl-subarrays](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3676-count-bowl-subarrays) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
