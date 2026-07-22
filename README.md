@@ -29,6 +29,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2785-sort-vowels-in-a-string](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2785-sort-vowels-in-a-string) |
 | [3227-vowels-game-in-a-string](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3227-vowels-game-in-a-string) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3675-minimum-operations-to-transform-string](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3675-minimum-operations-to-transform-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -121,6 +122,7 @@
 | [3446-sort-matrix-by-diagonals](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3446-sort-matrix-by-diagonals) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3660-jump-game-ix) |
@@ -141,6 +143,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -193,6 +196,7 @@
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
