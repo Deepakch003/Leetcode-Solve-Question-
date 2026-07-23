@@ -10,6 +10,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2353-design-a-food-rating-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2353-design-a-food-rating-system) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -27,6 +28,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2353-design-a-food-rating-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2353-design-a-food-rating-system) |
 | [2785-sort-vowels-in-a-string](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2785-sort-vowels-in-a-string) |
 | [3227-vowels-game-in-a-string](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3227-vowels-game-in-a-string) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -110,6 +112,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2353-design-a-food-rating-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2353-design-a-food-rating-system) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
@@ -210,6 +213,7 @@
 |  |
 | ------- |
 | [1792-maximum-average-pass-ratio](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1792-maximum-average-pass-ratio) |
+| [2353-design-a-food-rating-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2353-design-a-food-rating-system) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3620-network-recovery-pathways) |
@@ -312,4 +316,12 @@
 |  |
 | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3227-vowels-game-in-a-string) |
+## Design
+|  |
+| ------- |
+| [2353-design-a-food-rating-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2353-design-a-food-rating-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2353-design-a-food-rating-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2353-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
