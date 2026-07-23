@@ -95,6 +95,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3516-find-closest-person](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3516-find-closest-person) |
 | [3677-count-binary-palindromic-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3677-count-binary-palindromic-numbers) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -140,6 +141,7 @@
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3508-implement-router](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3508-implement-router) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3660-jump-game-ix) |
@@ -319,6 +321,7 @@
 | ------- |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3677-count-binary-palindromic-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3677-count-binary-palindromic-numbers) |
 ## Brainteaser
