@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0072-edit-distance) |
 | [0966-vowel-spellchecker](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0966-vowel-spellchecker) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1143-longest-common-subsequence) |
@@ -59,6 +60,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0322-coin-change) |
 | [1143-longest-common-subsequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1143-longest-common-subsequence) |
