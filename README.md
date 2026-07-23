@@ -28,6 +28,7 @@
 | [0020-valid-parentheses](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0020-valid-parentheses) |
 | [0966-vowel-spellchecker](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0966-vowel-spellchecker) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0322-coin-change) |
+| [1143-longest-common-subsequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1301-number-of-paths-with-max-score) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1504-count-submatrices-with-all-ones) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2327-number-of-people-aware-of-a-secret) |
