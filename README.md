@@ -73,6 +73,7 @@
 | [1143-longest-common-subsequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1301-number-of-paths-with-max-score) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1504-count-submatrices-with-all-ones) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
@@ -136,6 +137,7 @@
 | [1912-design-movie-rental-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1912-design-movie-rental-system) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2353-design-a-food-rating-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2353-design-a-food-rating-system) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -200,6 +202,7 @@
 | [0611-valid-triangle-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0611-valid-triangle-number) |
 | [1288-remove-covered-intervals](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2785-sort-vowels-in-a-string](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2785-sort-vowels-in-a-string) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
@@ -232,6 +235,7 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0611-valid-triangle-number) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -297,6 +301,7 @@
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0611-valid-triangle-number) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -339,6 +344,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -372,6 +378,7 @@
 |  |
 | ------- |
 | [1912-design-movie-rental-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1912-design-movie-rental-system) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2353-design-a-food-rating-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2353-design-a-food-rating-system) |
 | [3408-design-task-manager](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3408-design-task-manager) |
 | [3508-implement-router](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3508-implement-router) |
@@ -387,4 +394,8 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0096-unique-binary-search-trees) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
