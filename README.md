@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0037-sudoku-solver) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0966-vowel-spellchecker](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0966-vowel-spellchecker) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -29,6 +30,7 @@
 | [0020-valid-parentheses](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0072-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0966-vowel-spellchecker](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0966-vowel-spellchecker) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1143-longest-common-subsequence) |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0096-unique-binary-search-trees) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0326-power-of-three](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0326-power-of-three) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1979-find-greatest-common-divisor-of-array) |
