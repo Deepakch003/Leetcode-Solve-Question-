@@ -98,6 +98,7 @@
 | [0326-power-of-three](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0326-power-of-three) |
 | [0812-largest-triangle-area](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0812-largest-triangle-area) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1518-water-bottles](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -314,6 +315,7 @@
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1260-shift-2d-grid) |
+| [1518-water-bottles](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1518-water-bottles) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
