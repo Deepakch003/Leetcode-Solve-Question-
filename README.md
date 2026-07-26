@@ -9,6 +9,7 @@
 | [0966-vowel-spellchecker](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0966-vowel-spellchecker) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1488-avoid-flood-in-the-city](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1488-avoid-flood-in-the-city) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1912-design-movie-rental-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1912-design-movie-rental-system) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -141,6 +142,7 @@
 | [1260-shift-2d-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1301-number-of-paths-with-max-score) |
+| [1488-avoid-flood-in-the-city](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1488-avoid-flood-in-the-city) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1792-maximum-average-pass-ratio](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1792-maximum-average-pass-ratio) |
@@ -204,6 +206,7 @@
 | [0011-container-with-most-water](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0611-valid-triangle-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1488-avoid-flood-in-the-city](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1488-avoid-flood-in-the-city) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1792-maximum-average-pass-ratio](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1792-maximum-average-pass-ratio) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -252,6 +255,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0611-valid-triangle-number) |
 | [0778-swim-in-rising-water](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0778-swim-in-rising-water) |
+| [1488-avoid-flood-in-the-city](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1488-avoid-flood-in-the-city) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -272,6 +276,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0407-trapping-rain-water-ii) |
 | [0778-swim-in-rising-water](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0778-swim-in-rising-water) |
+| [1488-avoid-flood-in-the-city](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1488-avoid-flood-in-the-city) |
 | [1792-maximum-average-pass-ratio](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1792-maximum-average-pass-ratio) |
 | [1912-design-movie-rental-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1912-design-movie-rental-system) |
 | [2353-design-a-food-rating-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2353-design-a-food-rating-system) |
