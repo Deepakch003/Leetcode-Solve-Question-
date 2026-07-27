@@ -262,6 +262,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0778-swim-in-rising-water](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0778-swim-in-rising-water) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -348,6 +349,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0572-subtree-of-another-tree) |
 | [0778-swim-in-rising-water](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0778-swim-in-rising-water) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2685-count-the-number-of-complete-components) |
 ## Two Pointers
@@ -456,11 +458,13 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0572-subtree-of-another-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0096-unique-binary-search-trees) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -470,6 +474,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0572-subtree-of-another-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Bitmask
 |  |
 | ------- |
