@@ -13,6 +13,7 @@
 | [1733-minimum-number-of-people-to-teach](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1912-design-movie-rental-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1912-design-movie-rental-system) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2353-design-a-food-rating-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2353-design-a-food-rating-system) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -40,6 +41,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2353-design-a-food-rating-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2353-design-a-food-rating-system) |
 | [2785-sort-vowels-in-a-string](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2785-sort-vowels-in-a-string) |
 | [3227-vowels-game-in-a-string](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3227-vowels-game-in-a-string) |
@@ -159,6 +161,7 @@
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2353-design-a-food-rating-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2353-design-a-food-rating-system) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -229,6 +232,7 @@
 | [1288-remove-covered-intervals](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2785-sort-vowels-in-a-string](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2785-sort-vowels-in-a-string) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
