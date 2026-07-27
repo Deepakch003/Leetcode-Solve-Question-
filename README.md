@@ -15,6 +15,7 @@
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2353-design-a-food-rating-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2353-design-a-food-rating-system) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3408-design-task-manager](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3408-design-task-manager) |
 | [3484-design-spreadsheet](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3484-design-spreadsheet) |
@@ -52,6 +53,7 @@
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1189-maximum-number-of-balloons) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -78,6 +80,7 @@
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3620-network-recovery-pathways](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3620-network-recovery-pathways) |
@@ -164,6 +167,7 @@
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -229,6 +233,7 @@
 | [2785-sort-vowels-in-a-string](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2785-sort-vowels-in-a-string) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3446-sort-matrix-by-diagonals) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -266,6 +271,7 @@
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3508-implement-router](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3508-implement-router) |
@@ -342,6 +348,7 @@
 | [0611-valid-triangle-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0611-valid-triangle-number) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
