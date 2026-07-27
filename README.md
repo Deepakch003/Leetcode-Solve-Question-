@@ -78,6 +78,7 @@
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1143-longest-common-subsequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1301-number-of-paths-with-max-score) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1504-count-submatrices-with-all-ones) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2327-number-of-people-aware-of-a-secret) |
@@ -263,6 +264,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0778-swim-in-rising-water](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -274,6 +276,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0611-valid-triangle-number) |
 | [0778-swim-in-rising-water](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0778-swim-in-rising-water) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1488-avoid-flood-in-the-city](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1488-avoid-flood-in-the-city) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -350,6 +353,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0572-subtree-of-another-tree) |
 | [0778-swim-in-rising-water](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2685-count-the-number-of-complete-components) |
 ## Two Pointers
@@ -411,6 +415,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0222-count-complete-tree-nodes) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
@@ -436,6 +441,7 @@
 ## Design
 |  |
 | ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1912-design-movie-rental-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1912-design-movie-rental-system) |
 | [2353-design-a-food-rating-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2353-design-a-food-rating-system) |
 | [3408-design-task-manager](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3408-design-task-manager) |
@@ -459,6 +465,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Search Tree
 |  |
 | ------- |
