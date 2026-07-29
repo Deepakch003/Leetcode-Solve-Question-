@@ -182,6 +182,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3446-sort-matrix-by-diagonals) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3484-design-spreadsheet](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3484-design-spreadsheet) |
@@ -287,6 +288,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3508-implement-router](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3508-implement-router) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3532-path-existence-queries-in-a-graph-i) |
