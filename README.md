@@ -41,6 +41,7 @@
 | [1143-longest-common-subsequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -264,6 +265,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
@@ -279,6 +281,7 @@
 | [0778-swim-in-rising-water](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -369,6 +372,7 @@
 | [0778-swim-in-rising-water](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2685-count-the-number-of-complete-components) |
 ## Two Pointers
