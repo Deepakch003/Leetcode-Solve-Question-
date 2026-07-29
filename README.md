@@ -21,6 +21,7 @@
 | [3408-design-task-manager](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3408-design-task-manager) |
 | [3484-design-spreadsheet](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3484-design-spreadsheet) |
 | [3508-implement-router](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3508-implement-router) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3668-restore-finishing-order) |
@@ -47,6 +48,7 @@
 | [3227-vowels-game-in-a-string](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3227-vowels-game-in-a-string) |
 | [3484-design-spreadsheet](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3484-design-spreadsheet) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3675-minimum-operations-to-transform-string](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3675-minimum-operations-to-transform-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -57,6 +59,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
@@ -123,6 +126,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3516-find-closest-person](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3516-find-closest-person) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3677-count-binary-palindromic-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3677-count-binary-palindromic-numbers) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -401,6 +405,7 @@
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Backtracking
 |  |
 | ------- |
