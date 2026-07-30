@@ -105,6 +105,7 @@
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -193,6 +194,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
@@ -262,6 +264,7 @@
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3446-sort-matrix-by-diagonals) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -271,6 +274,7 @@
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -310,6 +314,7 @@
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3508-implement-router](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3508-implement-router) |
