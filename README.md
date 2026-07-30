@@ -13,6 +13,7 @@
 | [1733-minimum-number-of-people-to-teach](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1912-design-movie-rental-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1912-design-movie-rental-system) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2353-design-a-food-rating-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2353-design-a-food-rating-system) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1189-maximum-number-of-balloons) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -122,6 +124,7 @@
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1518-water-bottles](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
@@ -281,6 +284,7 @@
 |  |
 | ------- |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
@@ -446,6 +450,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0037-sudoku-solver) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Geometry
 |  |
 | ------- |
