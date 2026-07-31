@@ -111,6 +111,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -208,6 +209,7 @@
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3446-sort-matrix-by-diagonals) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
@@ -424,6 +426,7 @@
 | [2221-find-triangular-sum-of-an-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [3100-water-bottles-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3100-water-bottles-ii) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
