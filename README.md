@@ -410,6 +410,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0417-pacific-atlantic-water-flow) |
@@ -537,6 +538,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -549,6 +551,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0450-delete-node-in-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -556,6 +559,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
