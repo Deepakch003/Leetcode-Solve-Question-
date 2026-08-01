@@ -196,6 +196,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2353-design-a-food-rating-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2353-design-a-food-rating-system) |
@@ -377,6 +378,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1301-number-of-paths-with-max-score) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1504-count-submatrices-with-all-ones) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -434,6 +436,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2043-simple-bank-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2043-simple-bank-system) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [3100-water-bottles-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3100-water-bottles-ii) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3354-make-array-elements-equal-to-zero) |
