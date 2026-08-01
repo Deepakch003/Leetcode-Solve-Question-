@@ -540,6 +540,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -549,6 +550,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0096-unique-binary-search-trees) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0450-delete-node-in-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
@@ -557,6 +559,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0783-minimum-distance-between-bst-nodes) |
