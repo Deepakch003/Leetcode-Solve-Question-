@@ -45,6 +45,7 @@
 | [1143-longest-common-subsequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -97,6 +98,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
@@ -184,6 +186,7 @@
 | [1488-avoid-flood-in-the-city](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1488-avoid-flood-in-the-city) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1792-maximum-average-pass-ratio](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1792-maximum-average-pass-ratio) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -266,6 +269,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1488-avoid-flood-in-the-city](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1488-avoid-flood-in-the-city) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1792-maximum-average-pass-ratio](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1792-maximum-average-pass-ratio) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
