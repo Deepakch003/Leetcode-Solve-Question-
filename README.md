@@ -31,6 +31,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3607-power-grid-maintenance](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3607-power-grid-maintenance) |
 | [3668-restore-finishing-order](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -238,6 +239,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3607-power-grid-maintenance](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3607-power-grid-maintenance) |
 | [3620-network-recovery-pathways](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3660-jump-game-ix) |
 | [3668-restore-finishing-order](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3668-restore-finishing-order) |
@@ -334,6 +336,7 @@
 | [2685-count-the-number-of-complete-components](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3607-power-grid-maintenance](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3607-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
@@ -363,6 +366,7 @@
 | [2685-count-the-number-of-complete-components](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3607-power-grid-maintenance](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3607-power-grid-maintenance) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -377,6 +381,7 @@
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3408-design-task-manager](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3408-design-task-manager) |
+| [3607-power-grid-maintenance](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3607-power-grid-maintenance) |
 | [3620-network-recovery-pathways](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
@@ -405,6 +410,7 @@
 | [2685-count-the-number-of-complete-components](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3607-power-grid-maintenance](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3607-power-grid-maintenance) |
 | [3620-network-recovery-pathways](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -430,6 +436,7 @@
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2685-count-the-number-of-complete-components) |
+| [3607-power-grid-maintenance](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3607-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -542,6 +549,7 @@
 | [2353-design-a-food-rating-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2353-design-a-food-rating-system) |
 | [3408-design-task-manager](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3408-design-task-manager) |
 | [3508-implement-router](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3508-implement-router) |
+| [3607-power-grid-maintenance](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3607-power-grid-maintenance) |
 ## Tree
 |  |
 | ------- |
