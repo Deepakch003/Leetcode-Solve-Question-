@@ -142,6 +142,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2169-count-operations-to-obtain-zero) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
@@ -463,6 +464,7 @@
 | [1518-water-bottles](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1518-water-bottles) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2043-simple-bank-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2043-simple-bank-system) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2169-count-operations-to-obtain-zero) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2327-number-of-people-aware-of-a-secret) |
