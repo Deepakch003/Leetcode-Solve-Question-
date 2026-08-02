@@ -24,6 +24,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3408-design-task-manager](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3408-design-task-manager) |
 | [3484-design-spreadsheet](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3484-design-spreadsheet) |
 | [3508-implement-router](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3508-implement-router) |
@@ -219,6 +220,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -304,6 +306,7 @@
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Enumeration
@@ -372,6 +375,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3408-design-task-manager](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3408-design-task-manager) |
 | [3620-network-recovery-pathways](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3620-network-recovery-pathways) |
 ## Matrix
