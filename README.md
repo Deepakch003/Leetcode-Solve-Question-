@@ -31,6 +31,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3607-power-grid-maintenance](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3607-power-grid-maintenance) |
 | [3668-restore-finishing-order](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -86,6 +87,7 @@
 | [1504-count-submatrices-with-all-ones](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3676-count-bowl-subarrays](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3676-count-bowl-subarrays) |
 ## Dynamic Programming
 |  |
@@ -248,6 +250,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3607-power-grid-maintenance](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3607-power-grid-maintenance) |
 | [3620-network-recovery-pathways](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3660-jump-game-ix) |
@@ -292,6 +295,7 @@
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3675-minimum-operations-to-transform-string](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3675-minimum-operations-to-transform-string) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sorting
@@ -492,6 +496,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1504-count-submatrices-with-all-ones) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3676-count-bowl-subarrays](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3676-count-bowl-subarrays) |
 ## Memoization
 |  |
