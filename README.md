@@ -152,6 +152,7 @@
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
@@ -221,6 +222,7 @@
 | [2353-design-a-food-rating-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2353-design-a-food-rating-system) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -489,6 +491,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -633,4 +636,12 @@
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0474-ones-and-zeroes) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 <!---LeetCode Topics End-->
