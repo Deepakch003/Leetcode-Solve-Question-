@@ -167,6 +167,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3495-minimum-operations-to-make-array-elements-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3495-minimum-operations-to-make-array-elements-zero) |
@@ -347,6 +348,7 @@
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Breadth-First Search
