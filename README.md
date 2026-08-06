@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0037-sudoku-solver) |
+| [0139-word-break](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0966-vowel-spellchecker](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0966-vowel-spellchecker) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1189-maximum-number-of-balloons) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0474-ones-and-zeroes) |
@@ -100,6 +102,7 @@
 | [0072-edit-distance](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0474-ones-and-zeroes) |
@@ -193,6 +196,7 @@
 | [0011-container-with-most-water](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0037-sudoku-solver) |
 | [0120-triangle](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0407-trapping-rain-water-ii) |
@@ -531,6 +535,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0139-word-break) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 ## Combinatorics
@@ -687,4 +692,12 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0973-k-closest-points-to-origin) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
