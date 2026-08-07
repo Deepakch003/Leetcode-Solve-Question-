@@ -13,6 +13,7 @@
 | [1488-avoid-flood-in-the-city](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1488-avoid-flood-in-the-city) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1912-design-movie-rental-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1912-design-movie-rental-system) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2043-simple-bank-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2043-simple-bank-system) |
@@ -58,6 +59,7 @@
 | [1513-number-of-substrings-with-only-1s](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -133,6 +135,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2536-increment-submatrices-by-one](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2536-increment-submatrices-by-one) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -579,6 +582,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0222-count-complete-tree-nodes) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
