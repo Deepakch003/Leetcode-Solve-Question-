@@ -17,6 +17,7 @@
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2043-simple-bank-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2043-simple-bank-system) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2353-design-a-food-rating-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2353-design-a-food-rating-system) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
@@ -235,6 +236,7 @@
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2043-simple-bank-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2043-simple-bank-system) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2257-count-unguarded-cells-in-the-grid) |
@@ -338,6 +340,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2785-sort-vowels-in-a-string](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2785-sort-vowels-in-a-string) |
@@ -511,6 +514,7 @@
 | [1518-water-bottles](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1518-water-bottles) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2043-simple-bank-system](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2043-simple-bank-system) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2169-count-operations-to-obtain-zero) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2257-count-unguarded-cells-in-the-grid) |
