@@ -71,6 +71,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3227-vowels-game-in-a-string](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3227-vowels-game-in-a-string) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3484-design-spreadsheet](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3484-design-spreadsheet) |
@@ -126,6 +127,7 @@
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3620-network-recovery-pathways](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3620-network-recovery-pathways) |
@@ -331,6 +333,7 @@
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -511,6 +514,7 @@
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
