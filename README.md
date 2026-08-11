@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0165-compare-version-numbers) |
@@ -153,6 +154,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0326-power-of-three](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0326-power-of-three) |
@@ -519,6 +521,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1260-shift-2d-grid) |
 | [1518-water-bottles](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1518-water-bottles) |
@@ -583,6 +586,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0222-count-complete-tree-nodes) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
