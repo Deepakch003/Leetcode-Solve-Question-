@@ -209,6 +209,7 @@
 | [0037-sudoku-solver](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0037-sudoku-solver) |
 | [0120-triangle](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0139-word-break) |
+| [0239-sliding-window-maximum](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0407-trapping-rain-water-ii) |
@@ -367,6 +368,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -435,6 +437,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0407-trapping-rain-water-ii) |
 | [0778-swim-in-rising-water](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0973-k-closest-points-to-origin) |
@@ -609,6 +612,7 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0239-sliding-window-maximum) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3508-implement-router](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3508-implement-router) |
@@ -728,4 +732,12 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0139-word-break) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
