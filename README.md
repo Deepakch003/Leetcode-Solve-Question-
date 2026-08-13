@@ -117,6 +117,7 @@
 | [0877-stone-game](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0877-stone-game) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1143-longest-common-subsequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1143-longest-common-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1301-number-of-paths-with-max-score) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1504-count-submatrices-with-all-ones](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1504-count-submatrices-with-all-ones) |
@@ -226,6 +227,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0973-k-closest-points-to-origin) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1260-shift-2d-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1260-shift-2d-grid) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1301-number-of-paths-with-max-score) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -326,6 +328,7 @@
 | [0611-valid-triangle-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0611-valid-triangle-number) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0757-set-intersection-size-at-least-two) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1488-avoid-flood-in-the-city](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1488-avoid-flood-in-the-city) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -348,6 +351,7 @@
 | [0611-valid-triangle-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0611-valid-triangle-number) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0757-set-intersection-size-at-least-two) |
 | [0973-k-closest-points-to-origin](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0973-k-closest-points-to-origin) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1288-remove-covered-intervals) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
