@@ -225,6 +225,7 @@
 | [0877-stone-game](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0877-stone-game) |
 | [0966-vowel-spellchecker](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0966-vowel-spellchecker) |
 | [0973-k-closest-points-to-origin](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0973-k-closest-points-to-origin) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1260-shift-2d-grid](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -595,6 +596,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0222-count-complete-tree-nodes) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1930-unique-length-3-palindromic-subsequences) |
