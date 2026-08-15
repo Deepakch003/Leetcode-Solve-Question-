@@ -8,6 +8,7 @@
 | [0139-word-break](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0966-vowel-spellchecker](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0966-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1488-avoid-flood-in-the-city](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1488-avoid-flood-in-the-city) |
@@ -162,6 +163,7 @@
 | [0812-largest-triangle-area](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0973-k-closest-points-to-origin) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1518-water-bottles](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1518-water-bottles) |
@@ -746,4 +748,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0239-sliding-window-maximum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
