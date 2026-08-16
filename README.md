@@ -30,6 +30,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3408-design-task-manager](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3408-design-task-manager) |
 | [3484-design-spreadsheet](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3484-design-spreadsheet) |
 | [3508-implement-router](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3508-implement-router) |
@@ -149,6 +150,7 @@
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3494-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3494-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -284,6 +286,7 @@
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3446-sort-matrix-by-diagonals) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
