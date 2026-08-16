@@ -522,6 +522,7 @@
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2685-count-the-number-of-complete-components) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3607-power-grid-maintenance](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3607-power-grid-maintenance) |
 ## Two Pointers
 |  |
@@ -670,6 +671,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Search Tree
 |  |
 | ------- |
