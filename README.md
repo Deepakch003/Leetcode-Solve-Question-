@@ -39,6 +39,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3607-power-grid-maintenance](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3607-power-grid-maintenance) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3623-count-number-of-trapezoids-i) |
 | [3668-restore-finishing-order](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -198,6 +199,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3516-find-closest-person](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3516-find-closest-person) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3623-count-number-of-trapezoids-i) |
 | [3677-count-binary-palindromic-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3677-count-binary-palindromic-numbers) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -301,6 +303,7 @@
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3607-power-grid-maintenance](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3607-power-grid-maintenance) |
 | [3620-network-recovery-pathways](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3620-network-recovery-pathways) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3623-count-number-of-trapezoids-i) |
 | [3660-jump-game-ix](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3660-jump-game-ix) |
 | [3668-restore-finishing-order](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3668-restore-finishing-order) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3674-minimum-operations-to-equalize-array) |
@@ -600,6 +603,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0973-k-closest-points-to-origin) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3623-count-number-of-trapezoids-i) |
 ## Bit Manipulation
 |  |
 | ------- |
