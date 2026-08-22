@@ -215,6 +215,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0037-sudoku-solver) |
 | [0120-triangle](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0139-word-break) |
@@ -422,6 +423,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0611-valid-triangle-number) |
