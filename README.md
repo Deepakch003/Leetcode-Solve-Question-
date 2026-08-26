@@ -221,6 +221,7 @@
 | [0139-word-break](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0322-coin-change) |
@@ -426,6 +427,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0611-valid-triangle-number) |
