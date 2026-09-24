@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0139-word-break) |
@@ -109,6 +110,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0120-triangle) |
@@ -601,6 +603,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0037-sudoku-solver) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -772,4 +775,8 @@
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1015-smallest-integer-divisible-by-k) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
