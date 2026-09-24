@@ -219,6 +219,7 @@
 | [0011-container-with-most-water](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0037-sudoku-solver) |
+| [0078-subsets](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0152-maximum-product-subarray) |
@@ -605,6 +606,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0037-sudoku-solver) |
+| [0078-subsets](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0078-subsets) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Geometry
@@ -619,6 +621,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0222-count-complete-tree-nodes) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1483-kth-ancestor-of-a-tree-node) |
