@@ -176,6 +176,7 @@
 | [1518-water-bottles](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1518-water-bottles) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1922-count-good-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -213,6 +214,7 @@
 | ------- |
 | [0326-power-of-three](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0326-power-of-three) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1922-count-good-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
