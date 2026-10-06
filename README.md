@@ -51,6 +51,7 @@
 | [0022-generate-parentheses](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0166-fraction-to-recurring-decimal) |
@@ -114,6 +115,7 @@
 | [0072-edit-distance](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0300-longest-increasing-subsequence) |
@@ -614,6 +616,7 @@
 | [0039-combination-sum](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0216-combination-sum-iii) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3348-smallest-divisible-digit-product-ii) |
