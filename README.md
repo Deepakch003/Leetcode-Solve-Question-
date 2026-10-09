@@ -224,6 +224,7 @@
 | [0035-search-insert-position](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0120-triangle) |
@@ -614,6 +615,7 @@
 | [0022-generate-parentheses](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0131-palindrome-partitioning) |
@@ -794,4 +796,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0022-generate-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
