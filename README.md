@@ -747,6 +747,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0237-delete-node-in-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Knapsack Problem
 |  |
