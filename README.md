@@ -165,6 +165,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0166-fraction-to-recurring-decimal) |
@@ -214,6 +215,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0326-power-of-three) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1922-count-good-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1922-count-good-numbers) |
@@ -746,6 +748,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0002-add-two-numbers) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0237-delete-node-in-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
