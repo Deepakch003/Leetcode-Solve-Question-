@@ -553,6 +553,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0876-middle-of-the-linked-list) |
@@ -752,6 +753,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0328-odd-even-linked-list) |
