@@ -216,6 +216,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0326-power-of-three](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0326-power-of-three) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1922-count-good-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1922-count-good-numbers) |
@@ -750,6 +751,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0328-odd-even-linked-list) |
