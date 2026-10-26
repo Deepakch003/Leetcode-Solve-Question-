@@ -336,6 +336,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0973-k-closest-points-to-origin](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -349,6 +350,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
@@ -474,6 +476,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0407-trapping-rain-water-ii) |
 | [0778-swim-in-rising-water](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0778-swim-in-rising-water) |
@@ -752,6 +755,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -811,4 +815,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0051-n-queens) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
