@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0037-sudoku-solver) |
+| [0138-copy-list-with-random-pointer](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0966-vowel-spellchecker](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0966-vowel-spellchecker) |
@@ -759,6 +760,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0138-copy-list-with-random-pointer](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0138-copy-list-with-random-pointer) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0876-middle-of-the-linked-list) |
