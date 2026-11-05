@@ -651,6 +651,7 @@
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/3370-smallest-number-with-all-set-bits) |
