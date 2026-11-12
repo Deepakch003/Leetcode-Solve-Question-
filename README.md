@@ -167,6 +167,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0166-fraction-to-recurring-decimal) |
@@ -644,6 +645,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0090-subsets-ii) |
