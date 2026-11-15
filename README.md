@@ -252,6 +252,7 @@
 | [0757-set-intersection-size-at-least-two](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0757-set-intersection-size-at-least-two) |
 | [0778-swim-in-rising-water](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0778-swim-in-rising-water) |
 | [0812-largest-triangle-area](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0812-largest-triangle-area) |
+| [0860-lemonade-change](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0877-stone-game) |
 | [0966-vowel-spellchecker](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0966-vowel-spellchecker) |
 | [0973-k-closest-points-to-origin](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0973-k-closest-points-to-origin) |
@@ -363,6 +364,7 @@
 | [0011-container-with-most-water](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0611-valid-triangle-number) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0757-set-intersection-size-at-least-two) |
+| [0860-lemonade-change](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1488-avoid-flood-in-the-city](https://github.com/Deepakch003/Leetcode-Solve-Question-/tree/master/1488-avoid-flood-in-the-city) |
